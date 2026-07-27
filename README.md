@@ -70,7 +70,7 @@ authenticated user's details.
 
 | Login | Profile |
 |---|---|
-| ![Login screen](image3.png) | ![Profile screen](image(2).png) |
+| ![Login screen](image3.png) | ![Profile screen](image2.png) |
 
 ---
 
